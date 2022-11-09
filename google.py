@@ -1,7 +1,8 @@
 # pip install googlesearch-python==1.0.1
 import cloudscraper
 import requests
-scraper = cloudscraper.create_scraper()  
+scraper = requests
+# cloudscraper.create_scraper()  
 from time import sleep as t
 from googlesearch import search
 lstt = ['produce.php?id=1','index.php?id=1','produce.php?id=1','a store','clothes','Sale','Shopping stores','php?id=1']
